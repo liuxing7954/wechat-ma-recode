@@ -1,4 +1,7 @@
 
+# 项目地址
+基于开源项目， 后 cursor 进行了一些错误修复。 至少反编译了一个后没有异常提示， 很舒服
+
 # 说明
 - 来自网友基于 [wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker "wxappUnpacker") 改进的开源项目。
 
@@ -41,8 +44,3 @@ TIP
 │   └── master-xxx             # ../master-xxx 就是这个目录
 │       ├── app.json
 ```
-
-# 公众号
-![image](/geek_road.jpg)
-# wechat-ma-recode
-# wechat-ma-recode
